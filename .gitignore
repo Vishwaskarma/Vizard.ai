@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Server uploads & downloaded videos / models cache
+server/downloads/
+server/node_modules/
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
